@@ -37,3 +37,7 @@ By using Daiho, you agree that you hold responsibility and accountability of any
  - Statue Changer - Change the statue of a user with his token.
  - Cycle ColorTheme - Cycle the color of the Discord theme (Black/White) of a user with his Token.
  - WebHooks Remover - Delete any WebHooks link.
+
+
+
+https://reccloud.com/u/auo7yp0
