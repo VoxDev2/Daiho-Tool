@@ -39,5 +39,3 @@ By using Daiho, you agree that you hold responsibility and accountability of any
  - WebHooks Remover - Delete any WebHooks link.
 
 
-
-https://reccloud.com/u/auo7yp0
